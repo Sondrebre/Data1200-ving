@@ -1,35 +1,14 @@
 body {
-    background-color: lightgrey;
-    color: blue;
+    background-color: rgb(47, 235, 0);
+    color: rgb(255, 255, 255);
   }
   
   h1 {
-    background-color: black;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
-  
-  div {
-    background-color: blue;
-    color: white;
-  }
-  body {
-    background-color: lightgrey;
-    color: blue;
-  }
-  
-  h1 {
-    color: rgb(255, 0, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
-  
-  div {
-    background-color: blue;
-    color: white;
-}
   
   h4 {
-    background-color: red;
     color: white;
      } 
 
