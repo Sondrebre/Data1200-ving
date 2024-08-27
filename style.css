@@ -28,7 +28,8 @@ body {
     color: white;
 }
   
-h4 {
-    color: rgb(255, 0, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
+  h4 {
+    background color: red;
+    color: white;
+     } 
+
